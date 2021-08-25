@@ -1,8 +1,8 @@
 # Molly's Landing Page
 
-## This is where you can find my "Landing Page". I tried to have a lot of fun with this one and used vibrant summer colors. This page contains a short video introducing myself, as well as a photo taken from my LinkedIn, my Github profile, my LinkedIn page, and my Contact info which can be found at the bottom... along with a couple other fun interactive things.
+## This is where you can find my "Landing Page" (file index.html). I tried to have a lot of fun with this one and used vibrant summer colors. This page contains a short video introducing myself, as well as a photo taken from my LinkedIn, my Github profile, my LinkedIn page, and my Contact info which can be found at the bottom... along with a couple other fun interactive things.
 
-### In my Nav Bar, you will find 4 tabs... the Home tab will take you back to my Landing Page, the Projects tab will take you to a seperate page with my Projects embedded (file project2.html), and theres a Github and LinkedIn tab that will direct you to my profiles on each of those websites. 
+### In my Nav Bar, you will find 4 tabs... the Home tab will take you back to my Landing Page, the Projects tab will take you to a seperate page with my Projects embedded (file index2.html), and theres a Github and LinkedIn tab that will direct you to my profiles on each of those websites. 
 
 ####  Make sure to click play to watch my video, click on the picture of me in the top right corner to see a response box, and visit all the tabs at the Nav Bar. On the projects page, make sure to click on each project (suggest right clicking and opening in new tab so that you don't have to go back everytime).
 
