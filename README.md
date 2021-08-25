@@ -4,7 +4,7 @@
 
 ### In my Nav Bar, you will find 4 tabs... the Home tab will take you back to my Landing Page, the Projects tab will take you to a seperate page with my Projects embedded (file project2.html), and theres a Github and LinkedIn tab that will direct you to my profiles on each of those websites. 
 
-####  Make sure to click play to watch my video, click on the blue butterfly in the top right corner, and visit all the tabs at the Nav Bar. On the projects page, make sure to click on each project (suggest right clicking and opening in new tab so that you don't have to go back everytime).
+####  Make sure to click play to watch my video, click on the picture of me in the top right corner to see a response box, and visit all the tabs at the Nav Bar. On the projects page, make sure to click on each project (suggest right clicking and opening in new tab so that you don't have to go back everytime).
 
 ##### Some future improvements, would be learning how to work the grid easier... definitely tedious for me. And also getting the more interactive qualities like the animated title and background to work more smoothly. 
 
